@@ -11,6 +11,7 @@
     <modules>
         <module>roman-numerals</module>
         <module>fizzbuzz</module>
+        <module>trip-service-kata</module>
     </modules>
 
     <dependencies>
